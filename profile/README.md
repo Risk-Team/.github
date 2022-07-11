@@ -9,4 +9,4 @@ Our activities go beyond conducting climate risk assessments. We also develop a 
 - 🏢 We are currently working with **CORDEX-CORE** climate models.
 - 🌍 We support **GEF and GCF** projects.
 - 🌱 We develop tools that could better link climate science and policy.  
-- 🌱 We develop tools for automatic processing of crop model output simulations, in this case Aquacrop (FAO).
+- 🌱 We develop tools for automatic processing of crop model output simulations, in this case AquaCrop (FAO).
